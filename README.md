@@ -4,7 +4,7 @@ I'm currently a data validation engineer at LumiraDx.
 
 I was previously a senior laboratory scientist before making the jump to a data-centred role.
 
-My day job is to largely code in python but I started my data science journey by teaching myself how to use R for data analysis.
+My day job is to largely code in Python but I started my data science journey by teaching myself how to use R for data analysis.
 
 I'm going to use GitHub to share code for any personal data projects that I work on.
 
