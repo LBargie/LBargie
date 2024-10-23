@@ -1,6 +1,6 @@
 Hi, I’m @LBargie
 
-I was previously a senior laboratory scientist before making the jump to a data-centred role. I now work in the wonderful area of data engineering.
+I used to be a laboratory scientist. Now I'm a Data Engineer.
 
 My day job is to largely code in Python but I started my data science journey by teaching myself how to use R for data analysis and I still like to code in R when I get the chance.
 
